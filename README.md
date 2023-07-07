@@ -4,6 +4,7 @@
 ### This project is a GitHub Exploration App that allows users to explore GitHub and view user details and repositories.
 ## ABOUT PROJECT-
 ### This GitHub Exploration application consists of three web pages: Index.html, Home.html, and Details.html.
+### This project is built only in HTML, CSS, JavaScript and some external libraries for Css
 ## index.html:
 ### The index.html file represents the login page of the application. It contains a form where users can enter their login credentials, including email, email password, GitHub username, and Git password. Upon form submission, the JavaScript code makes a request to the GitHub API to retrieve user data based on the provided username. If the request is successful, the user data is stored in the browser's local storage, and the user is redirected to the home.html page.
 

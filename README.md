@@ -2,7 +2,6 @@
 ## WEBSITE LINK-https://malayadanigit.github.io/GITHUB-EXPLORATION-APP/
 ## Description:
 ### This project is a GitHub Exploration App that allows users to explore GitHub and view user details and repositories.
-## You can see like this of anyone's Profile- ![image](https://github.com/malayadaniGIT/GITHUB-EXPLORATION-APP/assets/109133343/70a42742-2c3b-4033-b18b-16a2574353e0)
 ## ABOUT PROJECT-
 ### This GitHub Exploration application consists of three web pages: Index.html, Home.html, and Details.html.
 ## index.html:
@@ -15,3 +14,4 @@
 ### The details.html file displays detailed information about a specific GitHub user. It retrieves the username from the URL query parameter and makes an API request to fetch the user's data from the GitHub API. The retrieved data includes the user's avatar, name, bio, number of followers, following, and repositories. The JavaScript code handles the API request, populates the user's information on the page, and dynamically generates links to the user's repositories.
 
 #### Overall, the project allows users to log in, explore GitHub users, view their details, and navigate between different pages. The JavaScript code interacts with the GitHub API to fetch user data, store it locally, and dynamically generate the necessary elements on the pages.
+## You can see like this of anyone's Profile- ![image](https://github.com/malayadaniGIT/GITHUB-EXPLORATION-APP/assets/109133343/70a42742-2c3b-4033-b18b-16a2574353e0)

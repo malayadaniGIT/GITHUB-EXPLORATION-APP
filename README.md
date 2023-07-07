@@ -1,4 +1,4 @@
-![image](https://github.com/malayadaniGIT/GITHUB-EXPLORATION-APP/assets/109133343/4d534500-6e57-43b9-99be-e89678170801)# GITHUB EXPLORATION APP
+# GITHUB EXPLORATION APP
 ## WEBSITE LINK-https://malayadanigit.github.io/GITHUB-EXPLORATION-APP/
 ## Description:
 ### This project is a GitHub Exploration App that allows users to explore GitHub and view user details and repositories.

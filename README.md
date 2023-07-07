@@ -2,7 +2,7 @@
 ## WEBSITE LINK-https://malayadanigit.github.io/GITHUB-EXPLORATION-APP/
 ## Description:
 ### This project is a GitHub Exploration App that allows users to explore GitHub and view user details and repositories.
-## ABOUT PROJECT-
+## About Project-
 ### This GitHub Exploration application consists of three web pages: Index.html, Home.html, and Details.html.
 #### This project is built only in HTML, CSS, JavaScript and some external libraries for Css
 ## index.html:
